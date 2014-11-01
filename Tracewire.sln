@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracewire", "LD27\LD27\Tracewire.csproj", "{6880242B-A532-48DD-86C2-E28A2C4689B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracewireContent", "LD27\LD27Content\TracewireContent.contentproj", "{B9B6E9ED-E3F4-46BB-98B3-8457E4B1831E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6880242B-A532-48DD-86C2-E28A2C4689B7}.Debug|x86.ActiveCfg = Debug|x86
+		{6880242B-A532-48DD-86C2-E28A2C4689B7}.Debug|x86.Build.0 = Debug|x86
+		{6880242B-A532-48DD-86C2-E28A2C4689B7}.Release|x86.ActiveCfg = Release|x86
+		{6880242B-A532-48DD-86C2-E28A2C4689B7}.Release|x86.Build.0 = Release|x86
+		{B9B6E9ED-E3F4-46BB-98B3-8457E4B1831E}.Debug|x86.ActiveCfg = Debug|x86
+		{B9B6E9ED-E3F4-46BB-98B3-8457E4B1831E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
